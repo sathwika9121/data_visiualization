@@ -25,8 +25,6 @@ Project/
 └── .gitignore                 # Keeps the repo clean (ignores cache/checkpoints)
 🚀 Getting Started
 Step 1: Clone the Repository
-Bash
-git clone https://github.com/SathwikaSamudrala/YourRepoName.git
 Step 2: Install Dependencies
 Ensure you have Python installed, then run:
 
@@ -48,3 +46,4 @@ Outlier Detection: Identifying data points that deviate from the norm.
 
 👩‍💻 About the Author
 Sathwika Samudrala An aspiring Data Analyst focused on transforming raw numbers into visual stories.
+
